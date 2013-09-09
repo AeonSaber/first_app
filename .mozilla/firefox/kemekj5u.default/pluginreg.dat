@@ -8,6 +8,15 @@ Arch:x86-gcc3:$
 libflashplayer.so:$
 /usr/lib/flashplugin-installer/libflashplayer.so:$
 11,2,202,297:$
+1378767986000:0:0:$
+Shockwave Flash 11.2 r202:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
+libflashplayer.so:$
+/usr/lib/flashplugin-installer/libflashplayer.so:$
+11,2,202,297:$
 1377030461000:0:0:$
 Shockwave Flash 11.2 r202:$
 Shockwave Flash:$

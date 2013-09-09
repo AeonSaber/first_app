@@ -320,3 +320,4 @@ git checkout -f
 git status
 git remote remove origin https://github.com/AeonSaber/first_app.git
 git remote add origin https://github.com/AeonSaber/firstapp.git
+git push -u origin master

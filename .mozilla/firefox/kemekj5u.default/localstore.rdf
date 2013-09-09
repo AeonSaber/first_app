@@ -3,21 +3,27 @@
          xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
                    collapsed="false" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   sidebarcommand=""
+                   width=""
+                   src="" />
   <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"
                    screenX="247"
                    screenY="179" />
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
-                   sizemode="normal"
                    screenX="13"
                    width="857"
                    screenY="24"
-                   height="823" />
+                   height="823"
+                   sizemode="maximized" />
   <RDF:Description RDF:about="chrome://mozapps/content/downloads/downloads.xul">
     <NC:persist RDF:resource="chrome://mozapps/content/downloads/downloads.xul#downloadManager"/>
   </RDF:Description>
   <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul">
     <NC:persist RDF:resource="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"/>
   </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
+                   value="" />
   <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul">
     <NC:persist RDF:resource="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"/>
   </RDF:Description>

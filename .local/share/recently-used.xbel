@@ -26,7 +26,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/rails_projects/first_app/Gemfile" added="2013-08-27T00:23:08Z" modified="2013-08-27T00:27:08Z" visited="2013-08-27T00:23:09Z">
+  <bookmark href="file:///home/student/rails_projects/first_app/Gemfile" added="2013-08-27T00:23:08Z" modified="2013-09-09T23:57:03Z" visited="2013-08-27T00:23:09Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -34,7 +34,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2013-08-27T00:27:08Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2013-09-09T23:57:03Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
