@@ -1,0 +1,7 @@
+[2013-08-26 18:51:08] patch
+current path: /home/student/.rvm/src/ruby-2.0.0-p247
+command(8): patch -F 25 -p1 -N -f -i /home/student/.rvm/patches/ruby/2.0.0/logging.patch
+patching file ext/extmk.rb
+Hunk #1 succeeded at 193 with fuzz 3.
+patching file lib/mkmf.rb
+Hunk #1 succeeded at 299 (offset -11 lines).

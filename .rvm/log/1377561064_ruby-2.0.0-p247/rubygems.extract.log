@@ -1,0 +1,25 @@
+[2013-08-26 18:53:45] __rvm_package_extract
+__rvm_package_extract () 
+{ 
+    rvm_debug __rvm_package_extract:$#: "$@";
+    typeset __tempdir __path __file __return;
+    __return=0;
+    __tempdir="$( TMPDIR="${rvm_tmp_path}" mktemp -d -t rvm-tmp.XXXXXXXXX )";
+    __rvm_package_extract_run "$1" "$__tempdir" || __return=$?;
+    if (( __return == 0 )); then
+        for __path in "$__tempdir"/*;
+        do
+            __file="${__path##*/}";
+            if [[ -n "${__file}" && -e "$2/${__file}" ]]; then
+                \rm -rf "$2/${__file}" || __return=$?;
+            fi;
+            \mv -f "${__path}" "$2/" || __return=$?;
+        done;
+    fi;
+    if [[ -n "$__tempdir" ]]; then
+        \rm -rf "$__tempdir";
+    fi;
+    return $__return
+}
+current path: /home/student/.rvm/src/ruby-2.0.0-p247
+command(3): __rvm_package_extract /home/student/.rvm/archives/rubygems-2.0.7.tgz /home/student/.rvm/src

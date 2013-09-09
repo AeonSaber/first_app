@@ -1,0 +1,7 @@
+Gem::Specification.new do |s|
+  s.name = "rake"
+  s.version = "0.9.6"
+  s.summary = "This rake is bundled with Ruby"
+  s.executables = ["rake"]
+  s.files = ["rake.rb", "rake/private_reader.rb", "rake/contrib/compositepublisher.rb", "rake/contrib/sys.rb", "rake/contrib/rubyforgepublisher.rb", "rake/contrib/ftptools.rb", "rake/contrib/publisher.rb", "rake/contrib/sshpublisher.rb", "rake/ext/core.rb", "rake/ext/string.rb", "rake/ext/module.rb", "rake/ext/time.rb", "rake/task_argument_error.rb", "rake/dsl_definition.rb", "rake/invocation_chain.rb", "rake/task_manager.rb", "rake/alt_system.rb", "rake/rule_recursion_overflow_error.rb", "rake/thread_pool.rb", "rake/phony.rb", "rake/backtrace.rb", "rake/file_utils.rb", "rake/gempackagetask.rb", "rake/application.rb", "rake/file_list.rb", "rake/default_loader.rb", "rake/classic_namespace.rb", "rake/packagetask.rb", "rake/thread_history_display.rb", "rake/runtest.rb", "rake/file_creation_task.rb", "rake/ruby182_test_unit_fix.rb", "rake/rake_module.rb", "rake/pathmap.rb", "rake/version.rb", "rake/cloneable.rb", "rake/loaders/makefile.rb", "rake/rdoctask.rb", "rake/pseudo_status.rb", "rake/multi_task.rb", "rake/invocation_exception_mixin.rb", "rake/clean.rb", "rake/testtask.rb", "rake/task.rb", "rake/early_time.rb", "rake/task_arguments.rb", "rake/win32.rb", "rake/promise.rb", "rake/trace_output.rb", "rake/file_utils_ext.rb", "rake/file_task.rb", "rake/rake_test_loader.rb", "rake/tasklib.rb", "rake/name_space.rb"]
+end

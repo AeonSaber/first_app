@@ -1,0 +1,1 @@
+[2012-08-24 08:24:03] tar xjf /home/student/.rvm/archives/ruby-1.9.3-p194.tar.bz2 -C /home/student/.rvm/tmp/rvm_src_4952 --no-same-owner

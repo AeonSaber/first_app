@@ -1,0 +1,5 @@
+#!/home/student/Komodo-Edit-7/lib/python/bin/python2.6
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

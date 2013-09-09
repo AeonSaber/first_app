@@ -1,0 +1,7 @@
+[2013-08-26 18:57:34] __rvm_rm_rf
+__rvm_rm_rf () 
+{ 
+    __rvm_rm_rf_verbose "$@"
+}
+current path: /home/student
+command(2): __rvm_rm_rf /home/student/.rvm/src/ruby-2.0.0-p247

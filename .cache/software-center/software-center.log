@@ -1,0 +1,94 @@
+2012-05-17 19:24:49,691 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2012-05-17 19:24:49,698 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-05-17 19:24:49,700 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 179, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2012-05-17 19:24:49,889 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2012-05-17 19:24:53,070 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-05-17 19:24:53,331 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-05-17 19:24:53,406 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-05-17 19:24:53,445 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-05-17 19:24:53,482 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-05-17 19:24:54,029 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-05-17 19:24:54,068 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2012-05-17 19:25:12,067 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 179, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2012-05-17 19:25:24,295 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 0
+2012-05-17 19:25:24,296 - softwarecenter.db.database - INFO - reopen() database
+2012-05-17 19:25:24,296 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-05-17 19:25:24,302 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 179, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2012-05-17 19:25:24,358 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 179, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2012-05-17 19:26:58,235 - softwarecenter.db.database - INFO - reopen() database
+2012-05-17 19:26:58,236 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-05-17 19:26:59,135 - softwarecenter.db.database - INFO - afile '<__main__.GLocalFile object at 0xb0c8b44 (GLocalFile at 0xb02f460)>' changed
+2012-05-17 19:26:59,637 - softwarecenter.db.database - INFO - reopen() database
+2012-05-17 19:26:59,637 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-05-17 19:41:45,369 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2012-05-17 19:41:45,376 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-05-17 19:41:45,630 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2012-08-22 13:04:38,567 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2012-08-22 13:04:38,574 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-08-22 13:04:38,825 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2012-08-22 13:04:39,012 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2012-08-22 13:04:39,032 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2012-08-22 13:04:46,220 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 0
+2012-08-22 13:04:46,221 - softwarecenter.db.database - INFO - reopen() database
+2012-08-22 13:04:46,221 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-08-22 15:02:40,960 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2012-08-22 15:02:41,030 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-08-22 15:02:42,029 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2012-08-22 15:02:42,358 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is [Application: appname= pkgname=dropbox].
+2012-08-22 15:02:42,409 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2012-08-22 15:02:51,274 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterRecommenderAPI', 'recommend_app', '{"pkgname": "dropbox"}']'
+2012-08-22 15:02:51,280 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:404: {'status': '404', 'content-length': '56', 'via': '1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'HIT from papeda.canonical.com', 'age': '257', 'strict-transport-security': 'max-age=2592000', 'vary': 'Accept-Encoding', '-content-encoding': 'gzip', 'server': 'Apache/2.2.22 (Ubuntu)', 'etag': '"9f52a77ab92d49e1f840cc0ed9b5ce71"', 'cache-control': 'max-age=300', 'date': 'Wed, 22 Aug 2012 19:58:34 GMT', 'content-type': 'text/html; charset=utf-8', 'x-cache-lookup': 'HIT from papeda.canonical.com:3128'}
+'
+2012-08-22 15:02:51,281 - softwarecenter.db.categories - WARNING - Error while accessing the recommender service: WARNING:__main__:404: {'status': '404', 'content-length': '56', 'via': '1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'HIT from papeda.canonical.com', 'age': '257', 'strict-transport-security': 'max-age=2592000', 'vary': 'Accept-Encoding', '-content-encoding': 'gzip', 'server': 'Apache/2.2.22 (Ubuntu)', 'etag': '"9f52a77ab92d49e1f840cc0ed9b5ce71"', 'cache-control': 'max-age=300', 'date': 'Wed, 22 Aug 2012 19:58:34 GMT', 'content-type': 'text/html; charset=utf-8', 'x-cache-lookup': 'HIT from papeda.canonical.com:3128'}
+
+2012-08-22 15:02:51,281 - softwarecenter.ui.gtk3.widgets.recommendations - WARNING - Error while accessing the recommender agent for the details view recommendations: WARNING:__main__:404: {'status': '404', 'content-length': '56', 'via': '1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'HIT from papeda.canonical.com', 'age': '257', 'strict-transport-security': 'max-age=2592000', 'vary': 'Accept-Encoding', '-content-encoding': 'gzip', 'server': 'Apache/2.2.22 (Ubuntu)', 'etag': '"9f52a77ab92d49e1f840cc0ed9b5ce71"', 'cache-control': 'max-age=300', 'date': 'Wed, 22 Aug 2012 19:58:34 GMT', 'content-type': 'text/html; charset=utf-8', 'x-cache-lookup': 'HIT from papeda.canonical.com:3128'}
+
+2012-08-22 15:02:52,586 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 0
+2012-08-22 15:02:52,587 - softwarecenter.db.database - INFO - reopen() database
+2012-08-22 15:02:52,587 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2012-08-22 15:03:11,009 - softwarecenter.backend - ERROR - error in _on_trans_finished 'Error: Package operation failed
+The installation or removal of a software package failed.
+
+Selecting previously unselected package dropbox.
+dpkg: regarding /tmp/dropbox_1.4.0_i386.deb containing dropbox:
+ dropbox breaks nautilus-dropbox (<< 1.4.0)
+  nautilus-dropbox (version 0.7.1-2) is present and installed.
+dpkg: error processing /tmp/dropbox_1.4.0_i386.deb (--install):
+ installing dropbox would break nautilus-dropbox, and
+ deconfiguration is not permitted (--auto-deconfigure might help)
+Errors were encountered while processing:
+ /tmp/dropbox_1.4.0_i386.deb
+'
+2012-08-22 15:03:35,950 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2013-08-26 18:11:51,125 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2013-08-26 18:11:51,589 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2013-08-26 18:11:57,478 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2013-08-26 18:11:58,522 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2013-08-26 18:11:58,558 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2013-08-26 18:12:20,819 - softwarecenter.db.update - INFO - skipping region restricted app: 'Flaggame' (not whitelisted)
+2013-08-26 18:12:21,528 - softwarecenter.db.update - INFO - skipping region restricted app: 'Comentarios Web' (not whitelisted)
+2013-08-26 18:12:21,619 - softwarecenter.db.update - INFO - skipping region restricted app: 'Bulleti d'esquerra de Calonge i Sant Antoni ' (not whitelisted)

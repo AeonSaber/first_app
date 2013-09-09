@@ -1,0 +1,12 @@
+prefix: '--no-links'.
+wrapper: 'bundle'.
+wrapper: 'erb'.
+wrapper: 'gem'.
+wrapper: 'irb'.
+wrapper: 'rake'.
+wrapper: 'rdoc'.
+wrapper: 'ri'.
+wrapper: 'ruby'.
+wrapper: 'rubygems-bundler-uninstaller'.
+wrapper: 'ruby_noexec_wrapper'.
+wrapper: 'testrb'.

@@ -1,0 +1,52 @@
+/etc/gdm/Xsession: Beginning session setup...
+localuser:student being added to access control list
+Setting IM through im-switch for locale=en_US.
+Start IM through /etc/X11/xinit/xinput.d/all_ALL linked to /etc/X11/xinit/xinput.d/default.
+gnome-session[2283]: WARNING: Session 'gnome' runnable check failed: Exited with code 1
+GNOME_KEYRING_CONTROL=/home/student/.cache/keyring-ADBOG2
+GPG_AGENT_INFO=/home/student/.cache/keyring-ADBOG2/gpg:0:1
+GNOME_KEYRING_CONTROL=/home/student/.cache/keyring-ADBOG2
+GPG_AGENT_INFO=/home/student/.cache/keyring-ADBOG2/gpg:0:1
+SSH_AUTH_SOCK=/home/student/.cache/keyring-ADBOG2/ssh
+GNOME_KEYRING_CONTROL=/home/student/.cache/keyring-ADBOG2
+GPG_AGENT_INFO=/home/student/.cache/keyring-ADBOG2/gpg:0:1
+SSH_AUTH_SOCK=/home/student/.cache/keyring-ADBOG2/ssh
+GNOME_KEYRING_CONTROL=/home/student/.cache/keyring-ADBOG2
+GPG_AGENT_INFO=/home/student/.cache/keyring-ADBOG2/gpg:0:1
+SSH_AUTH_SOCK=/home/student/.cache/keyring-ADBOG2/ssh
+
+(gnome-settings-daemon:2343): power-plugin-WARNING **: Failed set DPMS mode: Display is not DPMS capable
+
+(gnome-settings-daemon:2343): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(gnome-settings-daemon:2343): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(gnome-settings-daemon:2343): color-plugin-WARNING **: failed to reset xrandr-default gamma tables: gamma size is zero
+vmware-user: could not open /proc/fs/vmblock/dev
+Starting Dropbox...** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+Initializing nautilus-dropbox 0.7.1
+gnome-session[2283]: WARNING: Could not launch application 'gdu-notification-daemon.desktop': Unable to start application: Failed to execute child process "/usr/lib/gnome-disk-utility/gdu-notification-daemon" (No such file or directory)
+Dropbox isn't running!
+Done!
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x24000ca (Dropbox)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+** Message: moving back from GtkStatusIcon to indicator
+
+(gnome-settings-daemon:2343): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting
+
+(gnome-settings-daemon:2343): power-plugin-WARNING **: failed to turn the panel on: Display is not DPMS capable
+
+(gnome-settings-daemon:2343): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(gnome-settings-daemon:2343): color-plugin-WARNING **: failed to reset xrandr-default gamma tables: gamma size is zero
+
+(gnome-settings-daemon:2343): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(gnome-settings-daemon:2343): color-plugin-WARNING **: failed to reset xrandr-default gamma tables: gamma size is zero
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied

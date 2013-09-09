@@ -1,0 +1,290 @@
+[2013-08-26 18:53:29] make
+current path: /home/student/.rvm/src/ruby-2.0.0-p247
+command(2): make install
+	CC = gcc
+	LD = ld
+	LDSHARED = gcc -shared
+	CFLAGS = -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wimplicit-function-declaration -ansi -std=iso9899:199409  -fPIC 
+	XCFLAGS = -include ruby/config.h -include ruby/missing.h -D_FORTIFY_SOURCE=2 -fstack-protector -fno-strict-overflow -fvisibility=hidden -DRUBY_EXPORT
+	CPPFLAGS =   -I. -I.ext/include/i686-linux -I./include -I.
+	DLDFLAGS = -Wl,-soname,libruby.so.2.0  -fstack-protector  
+	SOLIBS = -lpthread -lrt -ldl -lcrypt -lm  
+generating encdb.h
+encdb.h unchanged
+making enc
+make[1]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+make[1]: Nothing to be done for `enc'.
+make[1]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+making srcs under enc
+make[1]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+make[1]: Nothing to be done for `srcs'.
+make[1]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+generating transdb.h
+transdb.h unchanged
+making trans
+make[1]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+make[1]: Nothing to be done for `./enc/trans'.
+make[1]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+making encs
+make[1]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+make[1]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+generating makefile exts.mk
+Failed to configure -test-/win32/dln. It will not be installed.
+Failed to configure -test-/win32/fd_setsize. It will not be installed.
+Failed to configure dl/win32. It will not be installed.
+Failed to configure fiddle/win32. It will not be installed.
+configuring socket
+Failed to configure tk. It will not be installed.
+Failed to configure tk/tkutil. It will not be installed.
+Failed to configure win32ole. It will not be installed.
+make[1]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/array/resize'
+installing default resize libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/array/resize'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/bug-3571'
+installing default bug libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/bug-3571'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/bug-3662'
+installing default bug libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/bug-3662'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/bug-5832'
+installing default bug libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/bug-5832'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/debug'
+installing default debug libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/debug'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/exception'
+installing default exception libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/exception'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/fatal'
+installing default rb_fatal libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/fatal'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/funcall'
+installing default funcall libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/funcall'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/iter'
+installing default break libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/iter'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/load/dot.dot'
+installing default dot.dot libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/load/dot.dot'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/marshal/compat'
+installing default compat libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/marshal/compat'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/marshal/usr'
+installing default usr libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/marshal/usr'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/method'
+installing default method libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/method'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/num2int'
+installing default num2int libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/num2int'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/old_thread_select'
+installing default old_thread_select libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/old_thread_select'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/path_to_class'
+installing default path_to_class libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/path_to_class'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/printf'
+installing default printf libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/printf'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/st/numhash'
+installing default numhash libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/st/numhash'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/st/update'
+installing default update libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/st/update'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/string'
+installing default string libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/string'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/symbol'
+installing default symbol libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/symbol'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/typeddata'
+installing default typeddata libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/typeddata'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/wait_for_single_fd'
+installing default wait_for_single_fd libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/wait_for_single_fd'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/win32/dln'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/win32/dln'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/win32/fd_setsize'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/-test-/win32/fd_setsize'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/bigdecimal'
+installing default bigdecimal libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/bigdecimal'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/continuation'
+installing default continuation libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/continuation'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/coverage'
+installing default coverage libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/coverage'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/curses'
+installing default curses libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/curses'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/date'
+installing default date_core libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/date'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dbm'
+installing default dbm libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dbm'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest'
+installing digest libraries
+installing default digest libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/bubblebabble'
+installing default bubblebabble libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/bubblebabble'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/md5'
+installing default md5 libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/md5'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/rmd160'
+installing default rmd160 libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/rmd160'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/sha1'
+installing default sha1 libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/sha1'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/sha2'
+installing default sha2 libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/digest/sha2'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dl'
+installing dl libraries
+installing default dl libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dl'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dl/callback'
+installing default callback libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dl/callback'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dl/win32'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/dl/win32'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/etc'
+installing default etc libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/etc'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fcntl'
+installing default fcntl libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fcntl'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fiber'
+installing default fiber libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fiber'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fiddle'
+installing default fiddle libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fiddle'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fiddle/win32'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/fiddle/win32'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/gdbm'
+installing default gdbm libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/gdbm'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/io/console'
+installing default console libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/io/console'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/io/nonblock'
+installing default nonblock libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/io/nonblock'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/io/wait'
+installing default wait libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/io/wait'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/json'
+installing default libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/json'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/json/generator'
+installing default generator libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/json/generator'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/json/parser'
+installing default parser libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/json/parser'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/mathn/complex'
+installing default complex libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/mathn/complex'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/mathn/rational'
+installing default rational libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/mathn/rational'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/nkf'
+installing default nkf libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/nkf'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/objspace'
+installing default objspace libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/objspace'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/openssl'
+installing default openssl libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/openssl'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/pathname'
+installing default pathname libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/pathname'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/psych'
+installing default psych libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/psych'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/pty'
+installing default pty libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/pty'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/racc/cparse'
+installing default cparse libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/racc/cparse'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/readline'
+installing default readline libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/readline'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/ripper'
+installing default ripper libraries
+checking ../.././parse.y and ../.././ext/ripper/eventids2.c
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/ripper'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/sdbm'
+installing default sdbm libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/sdbm'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/socket'
+linking shared-object socket.so
+installing default socket libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/socket'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/stringio'
+installing default stringio libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/stringio'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/strscan'
+installing default strscan libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/strscan'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/syslog'
+installing default syslog libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/syslog'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/tk'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/tk'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/tk/tkutil'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/tk/tkutil'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/win32ole'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/win32ole'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/zlib'
+installing default zlib libraries
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247/ext/zlib'
+make[2]: Entering directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+make[2]: `ruby' is up to date.
+make[2]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+make[1]: Leaving directory `/home/student/.rvm/src/ruby-2.0.0-p247'
+./miniruby -I./lib -I. -I.ext/common  ./tool/rbinstall.rb --make="make" --dest-dir="" --extout=".ext" --mflags="" --make-flags="" --data-mode=0644 --prog-mode=0755 --installed-list .installed.list --mantype="doc"
+installing binary commands:   /home/student/.rvm/rubies/ruby-2.0.0-p247/bin
+installing base libraries:    /home/student/.rvm/rubies/ruby-2.0.0-p247/lib
+installing arch files:        /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/i686-linux
+installing pkgconfig data:    /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/pkgconfig
+installing command scripts:   /home/student/.rvm/rubies/ruby-2.0.0-p247/bin
+installing library scripts:   /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0
+installing common headers:    /home/student/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0
+installing manpages:          /home/student/.rvm/rubies/ruby-2.0.0-p247/share/man/man1
+installing extension objects: /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/i686-linux
+installing extension objects: /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/site_ruby/2.0.0/i686-linux
+installing extension objects: /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/vendor_ruby/2.0.0/i686-linux
+installing extension headers: /home/student/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/i686-linux
+installing extension scripts: /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0
+installing extension scripts: /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/site_ruby/2.0.0
+installing extension scripts: /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/vendor_ruby/2.0.0
+installing extension headers: /home/student/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby
+installing default gems:      /home/student/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/gems/2.0.0 (build_info, cache, doc, gems, specifications)
+                              bigdecimal 1.2.0
+                              io-console 0.4.2
+                              json 1.7.7
+                              minitest 4.3.2
+                              psych 2.0.0
+                              rake 0.9.6
+                              rdoc 4.0.0
+                              test-unit 2.0.0.0

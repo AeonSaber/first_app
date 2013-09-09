@@ -1,0 +1,7 @@
+contract @activestate.com/koFastOpenTreeView;1 {2d53a00d-9f41-634f-b702-d163e44061ee}
+contract @activestate.com/koFastOpenService;1 {1ffc88c7-b388-c844-b60b-e1f04bfb86d3}
+component {1ffc88c7-b388-c844-b60b-e1f04bfb86d3} koFastOpen.py
+contract @activestate.com/koFastOpenSession;1 {16d03764-c4b2-5342-a091-78fe11057d43}
+component {2d53a00d-9f41-634f-b702-d163e44061ee} koFastOpen.py
+component {16d03764-c4b2-5342-a091-78fe11057d43} koFastOpen.py
+interfaces koIFastOpen.xpt

@@ -1,0 +1,24 @@
+[2012-08-24 08:27:31] '/home/student/.rvm/scripts/gemsets' initial # under ruby-1.9.3-p194
+Importing initial gemsets for ruby-1.9.3-p194.
+paths: /home/student/.rvm/gemsets /home/student/.rvm/gemsets/ruby /home/student/.rvm/gemsets/ruby/1.9.3 /home/student/.rvm/gemsets/ruby/1.9.3/p194
+
+Installing gems listed in /home/student/.rvm/gemsets/default.gems file...
+
+
+Processing of /home/student/.rvm/gemsets/default.gems is complete.
+
+
+Installing gems listed in /home/student/.rvm/gemsets/global.gems file...
+
+installing bundler ...
+bundler  installed.
+installing rubygems-bundler ...
+rubygems-bundler  installed.
+installing rake ...
+rake  installed.
+installing rvm ...
+rvm  installed.
+
+Processing of /home/student/.rvm/gemsets/global.gems is complete.
+
+Installation of gems for ruby-1.9.3-p194 is complete.

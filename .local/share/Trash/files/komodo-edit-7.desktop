@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Komodo Edit 7
+GenericName=Editor
+Comment=Free multi-platform editor that makes it easy to write quality code.
+Exec=/home/student/Komodo-Edit-7/lib/mozilla/komodo %F
+Icon=/home/student/Komodo-Edit-7/share/icons/komodo48.png
+Terminal=false
+Type=Application
+MimeType=text/plain;
+Categories=ActiveState;Application;Development;Editor;Utility;TextEditor;

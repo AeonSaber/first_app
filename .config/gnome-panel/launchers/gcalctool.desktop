@@ -1,0 +1,19 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Exec=/home/student/Komodo-Edit-7/bin/komodo
+Icon=accessories-calculator
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;Calculator;
+X-GNOME-DocPath=gcalctool/gcalctool.xml
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gcalctool
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-OtherBinaries=gnome-calculator
+X-Ubuntu-Gettext-Domain=gcalctool
+Name[en_US]=Komodo Edit
+Name=Komodo Edit
+Comment[en_US]=Program Editor
+Comment=Program Editor
+Icon[en_US]=/usr/share/icons/Humanity/apps/48/kedit.svg

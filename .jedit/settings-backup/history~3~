@@ -1,0 +1,11 @@
+[vfs.browser.path]
+/home/student
+[vfs.browser.filter]
+*\[^~#\]
+[action]
+global-options
+editor-scheme-selector
+schemeEditor-float
+plugin-options
+exit
+plugin-manager

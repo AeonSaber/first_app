@@ -1,0 +1,508 @@
+status: 200
+content-length: 12924
+via: 1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7), 1.1 reviews.ubuntu.com
+content-location: http://reviews.ubuntu.com/reviews/api/1.0/review-stats/any/any/updates-last-1-days/
+x-cache: HIT from sumac.canonical.com
+age: 627
+expires: Wed, 22 Aug 2012 23:52:15 GMT
+server: Apache/2.2.14 (Ubuntu)
+last-modified: Wed, 22 Aug 2012 19:52:15 GMT
+connection: close
+-content-encoding: gzip
+cache-control: max-age=14400
+date: Wed, 22 Aug 2012 19:52:15 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from sumac.canonical.com:3128
+
+[
+    {
+        "ratings_total": 130, 
+        "ratings_average": "2.61", 
+        "app_name": "", 
+        "package_name": "pitivi", 
+        "histogram": "[39, 31, 20, 22, 18]"
+    }, 
+    {
+        "ratings_total": 21, 
+        "ratings_average": "4.67", 
+        "app_name": "", 
+        "package_name": "octave3.2", 
+        "histogram": "[0, 0, 2, 3, 16]"
+    }, 
+    {
+        "ratings_total": 56, 
+        "ratings_average": "4.41", 
+        "app_name": "", 
+        "package_name": "xournal", 
+        "histogram": "[0, 4, 5, 11, 36]"
+    }, 
+    {
+        "ratings_total": 50, 
+        "ratings_average": "3.48", 
+        "app_name": "", 
+        "package_name": "torcs", 
+        "histogram": "[8, 4, 12, 8, 18]"
+    }, 
+    {
+        "ratings_total": 6, 
+        "ratings_average": "4.33", 
+        "app_name": "", 
+        "package_name": "djview4", 
+        "histogram": "[0, 0, 0, 4, 2]"
+    }, 
+    {
+        "ratings_total": 7, 
+        "ratings_average": "1.86", 
+        "app_name": "", 
+        "package_name": "lletters", 
+        "histogram": "[4, 1, 1, 1, 0]"
+    }, 
+    {
+        "ratings_total": 15, 
+        "ratings_average": "3.60", 
+        "app_name": "", 
+        "package_name": "emma", 
+        "histogram": "[2, 1, 2, 6, 4]"
+    }, 
+    {
+        "ratings_total": 3, 
+        "ratings_average": "3.33", 
+        "app_name": "", 
+        "package_name": "gnome-color-manager", 
+        "histogram": "[1, 0, 0, 1, 1]"
+    }, 
+    {
+        "ratings_total": 20, 
+        "ratings_average": "4.60", 
+        "app_name": "", 
+        "package_name": "conky", 
+        "histogram": "[1, 0, 1, 2, 16]"
+    }, 
+    {
+        "ratings_total": 4, 
+        "ratings_average": "4.75", 
+        "app_name": "", 
+        "package_name": "milkytracker", 
+        "histogram": "[0, 0, 0, 1, 3]"
+    }, 
+    {
+        "ratings_total": 6, 
+        "ratings_average": "3.00", 
+        "app_name": "", 
+        "package_name": "w3af", 
+        "histogram": "[2, 0, 1, 2, 1]"
+    }, 
+    {
+        "ratings_total": 55, 
+        "ratings_average": "3.91", 
+        "app_name": "", 
+        "package_name": "miro", 
+        "histogram": "[7, 3, 7, 9, 29]"
+    }, 
+    {
+        "ratings_total": 2, 
+        "ratings_average": "4.50", 
+        "app_name": "", 
+        "package_name": "rdesktop", 
+        "histogram": "[0, 0, 0, 1, 1]"
+    }, 
+    {
+        "ratings_total": 34, 
+        "ratings_average": "4.06", 
+        "app_name": "", 
+        "package_name": "gnome-commander", 
+        "histogram": "[3, 1, 3, 11, 16]"
+    }, 
+    {
+        "ratings_total": 18, 
+        "ratings_average": "3.94", 
+        "app_name": "", 
+        "package_name": "rygel", 
+        "histogram": "[0, 1, 5, 6, 6]"
+    }, 
+    {
+        "ratings_total": 22, 
+        "ratings_average": "2.32", 
+        "app_name": "", 
+        "package_name": "ristretto", 
+        "histogram": "[8, 7, 2, 2, 3]"
+    }, 
+    {
+        "ratings_total": 36, 
+        "ratings_average": "3.61", 
+        "app_name": "", 
+        "package_name": "k9copy", 
+        "histogram": "[9, 2, 3, 2, 20]"
+    }, 
+    {
+        "ratings_total": 44, 
+        "ratings_average": "4.36", 
+        "app_name": "", 
+        "package_name": "xfburn", 
+        "histogram": "[2, 2, 2, 10, 28]"
+    }, 
+    {
+        "ratings_total": 2, 
+        "ratings_average": "5.00", 
+        "app_name": "", 
+        "package_name": "gnome-split", 
+        "histogram": "[0, 0, 0, 0, 2]"
+    }, 
+    {
+        "ratings_total": 10, 
+        "ratings_average": "3.70", 
+        "app_name": "", 
+        "package_name": "lybniz", 
+        "histogram": "[1, 1, 0, 6, 2]"
+    }, 
+    {
+        "ratings_total": 20, 
+        "ratings_average": "4.75", 
+        "app_name": "", 
+        "package_name": "agave", 
+        "histogram": "[0, 0, 1, 3, 16]"
+    }, 
+    {
+        "ratings_total": 7, 
+        "ratings_average": "3.29", 
+        "app_name": "", 
+        "package_name": "whichwayisup", 
+        "histogram": "[1, 1, 2, 1, 2]"
+    }, 
+    {
+        "ratings_total": 12, 
+        "ratings_average": "4.25", 
+        "app_name": "", 
+        "package_name": "freedoom", 
+        "histogram": "[0, 2, 0, 3, 7]"
+    }, 
+    {
+        "ratings_total": 116, 
+        "ratings_average": "4.72", 
+        "app_name": "", 
+        "package_name": "shutter", 
+        "histogram": "[1, 3, 2, 16, 94]"
+    }, 
+    {
+        "ratings_total": 11, 
+        "ratings_average": "4.27", 
+        "app_name": "", 
+        "package_name": "step", 
+        "histogram": "[0, 1, 1, 3, 6]"
+    }, 
+    {
+        "ratings_total": 29, 
+        "ratings_average": "3.28", 
+        "app_name": "", 
+        "package_name": "blueproximity", 
+        "histogram": "[5, 5, 5, 5, 9]"
+    }, 
+    {
+        "ratings_total": 80, 
+        "ratings_average": "4.32", 
+        "app_name": "", 
+        "package_name": "wallch", 
+        "histogram": "[3, 1, 9, 21, 46]"
+    }, 
+    {
+        "ratings_total": 14, 
+        "ratings_average": "4.50", 
+        "app_name": "", 
+        "package_name": "theclockworkman2", 
+        "histogram": "[0, 0, 2, 3, 9]"
+    }, 
+    {
+        "ratings_total": 32, 
+        "ratings_average": "4.72", 
+        "app_name": "", 
+        "package_name": "kid3-qt", 
+        "histogram": "[2, 0, 0, 1, 29]"
+    }, 
+    {
+        "ratings_total": 16, 
+        "ratings_average": "3.94", 
+        "app_name": "", 
+        "package_name": "uplink", 
+        "histogram": "[2, 1, 2, 2, 9]"
+    }, 
+    {
+        "ratings_total": 2, 
+        "ratings_average": "2.00", 
+        "app_name": "", 
+        "package_name": "opencubicplayer", 
+        "histogram": "[1, 0, 1, 0, 0]"
+    }, 
+    {
+        "ratings_total": 47, 
+        "ratings_average": "4.53", 
+        "app_name": "", 
+        "package_name": "stardict", 
+        "histogram": "[0, 3, 0, 13, 31]"
+    }, 
+    {
+        "ratings_total": 114, 
+        "ratings_average": "4.57", 
+        "app_name": "", 
+        "package_name": "nexuiz", 
+        "histogram": "[2, 2, 10, 15, 85]"
+    }, 
+    {
+        "ratings_total": 36, 
+        "ratings_average": "4.39", 
+        "app_name": "", 
+        "package_name": "ogmrip", 
+        "histogram": "[2, 2, 2, 4, 26]"
+    }, 
+    {
+        "ratings_total": 117, 
+        "ratings_average": "4.69", 
+        "app_name": "", 
+        "package_name": "deluge", 
+        "histogram": "[2, 3, 3, 13, 96]"
+    }, 
+    {
+        "ratings_total": 31, 
+        "ratings_average": "4.81", 
+        "app_name": "", 
+        "package_name": "speedcrunch", 
+        "histogram": "[0, 1, 0, 3, 27]"
+    }, 
+    {
+        "ratings_total": 544, 
+        "ratings_average": "3.49", 
+        "app_name": "", 
+        "package_name": "skype", 
+        "histogram": "[57, 66, 123, 150, 148]"
+    }, 
+    {
+        "ratings_total": 28, 
+        "ratings_average": "4.68", 
+        "app_name": "", 
+        "package_name": "glabels", 
+        "histogram": "[0, 0, 2, 5, 21]"
+    }, 
+    {
+        "ratings_total": 3, 
+        "ratings_average": "3.33", 
+        "app_name": "", 
+        "package_name": "freedm", 
+        "histogram": "[0, 0, 2, 1, 0]"
+    }, 
+    {
+        "ratings_total": 703, 
+        "ratings_average": "3.27", 
+        "app_name": "", 
+        "package_name": "banshee", 
+        "histogram": "[128, 128, 92, 139, 216]"
+    }, 
+    {
+        "ratings_total": 70, 
+        "ratings_average": "4.66", 
+        "app_name": "", 
+        "package_name": "xbmc", 
+        "histogram": "[4, 1, 0, 5, 60]"
+    }, 
+    {
+        "ratings_total": 207, 
+        "ratings_average": "4.03", 
+        "app_name": "", 
+        "package_name": "openshot", 
+        "histogram": "[16, 17, 22, 42, 110]"
+    }, 
+    {
+        "ratings_total": 68, 
+        "ratings_average": "3.85", 
+        "app_name": "", 
+        "package_name": "sound-juicer", 
+        "histogram": "[7, 8, 8, 10, 35]"
+    }, 
+    {
+        "ratings_total": 214, 
+        "ratings_average": "4.26", 
+        "app_name": "", 
+        "package_name": "libreoffice-writer", 
+        "histogram": "[8, 10, 22, 52, 122]"
+    }, 
+    {
+        "ratings_total": 412, 
+        "ratings_average": "3.87", 
+        "app_name": "", 
+        "package_name": "cheese", 
+        "histogram": "[56, 18, 45, 96, 197]"
+    }, 
+    {
+        "ratings_total": 38, 
+        "ratings_average": "4.08", 
+        "app_name": "", 
+        "package_name": "librecad", 
+        "histogram": "[2, 1, 4, 16, 15]"
+    }, 
+    {
+        "ratings_total": 359, 
+        "ratings_average": "4.76", 
+        "app_name": "", 
+        "package_name": "audacity", 
+        "histogram": "[4, 4, 5, 48, 298]"
+    }, 
+    {
+        "ratings_total": 156, 
+        "ratings_average": "3.71", 
+        "app_name": "", 
+        "package_name": "shotwell", 
+        "histogram": "[8, 24, 27, 43, 54]"
+    }, 
+    {
+        "ratings_total": 1197, 
+        "ratings_average": "4.79", 
+        "app_name": "", 
+        "package_name": "vlc", 
+        "histogram": "[13, 17, 25, 98, 1044]"
+    }, 
+    {
+        "ratings_total": 382, 
+        "ratings_average": "4.14", 
+        "app_name": "", 
+        "package_name": "rhythmbox", 
+        "histogram": "[25, 24, 42, 71, 220]"
+    }, 
+    {
+        "ratings_total": 102, 
+        "ratings_average": "3.49", 
+        "app_name": "", 
+        "package_name": "tiberiumalliances", 
+        "histogram": "[19, 11, 10, 25, 37]"
+    }, 
+    {
+        "ratings_total": 133, 
+        "ratings_average": "3.32", 
+        "app_name": "", 
+        "package_name": "ubuntuone-installer", 
+        "histogram": "[30, 15, 16, 27, 45]"
+    }, 
+    {
+        "ratings_total": 20, 
+        "ratings_average": "3.65", 
+        "app_name": "", 
+        "package_name": "fceux", 
+        "histogram": "[5, 1, 1, 2, 11]"
+    }, 
+    {
+        "ratings_total": 792, 
+        "ratings_average": "4.43", 
+        "app_name": "", 
+        "package_name": "firefox", 
+        "histogram": "[40, 25, 47, 121, 559]"
+    }, 
+    {
+        "ratings_total": 941, 
+        "ratings_average": "4.58", 
+        "app_name": "", 
+        "package_name": "chromium-browser", 
+        "histogram": "[29, 21, 37, 144, 710]"
+    }, 
+    {
+        "ratings_total": 41, 
+        "ratings_average": "4.56", 
+        "app_name": "", 
+        "package_name": "gscan2pdf", 
+        "histogram": "[1, 1, 1, 9, 29]"
+    }, 
+    {
+        "ratings_total": 178, 
+        "ratings_average": "4.44", 
+        "app_name": "", 
+        "package_name": "soundconverter", 
+        "histogram": "[10, 6, 8, 26, 128]"
+    }, 
+    {
+        "ratings_total": 68, 
+        "ratings_average": "4.56", 
+        "app_name": "", 
+        "package_name": "gbrainy", 
+        "histogram": "[0, 1, 5, 17, 45]"
+    }, 
+    {
+        "ratings_total": 56, 
+        "ratings_average": "4.64", 
+        "app_name": "", 
+        "package_name": "lightread", 
+        "histogram": "[1, 1, 1, 11, 42]"
+    }, 
+    {
+        "ratings_total": 163, 
+        "ratings_average": "4.44", 
+        "app_name": "", 
+        "package_name": "calibre", 
+        "histogram": "[2, 9, 10, 36, 106]"
+    }, 
+    {
+        "ratings_total": 61, 
+        "ratings_average": "3.79", 
+        "app_name": "", 
+        "package_name": "lordofultima", 
+        "histogram": "[10, 2, 8, 12, 29]"
+    }, 
+    {
+        "ratings_total": 236, 
+        "ratings_average": "4.79", 
+        "app_name": "", 
+        "package_name": "ubuntu-restricted-extras", 
+        "histogram": "[2, 1, 7, 24, 202]"
+    }, 
+    {
+        "ratings_total": 68, 
+        "ratings_average": "4.63", 
+        "app_name": "", 
+        "package_name": "indicator-multiload", 
+        "histogram": "[2, 0, 2, 13, 51]"
+    }, 
+    {
+        "ratings_total": 109, 
+        "ratings_average": "4.02", 
+        "app_name": "", 
+        "package_name": "pdfshuffler", 
+        "histogram": "[11, 9, 3, 30, 56]"
+    }, 
+    {
+        "ratings_total": 121, 
+        "ratings_average": "3.74", 
+        "app_name": "", 
+        "package_name": "jockey-gtk", 
+        "histogram": "[19, 10, 12, 23, 57]"
+    }, 
+    {
+        "ratings_total": 174, 
+        "ratings_average": "4.47", 
+        "app_name": "", 
+        "package_name": "eclipse-platform", 
+        "histogram": "[9, 3, 12, 24, 126]"
+    }, 
+    {
+        "ratings_total": 6, 
+        "ratings_average": "4.17", 
+        "app_name": "", 
+        "package_name": "portal-slingshot", 
+        "histogram": "[0, 0, 2, 1, 3]"
+    }, 
+    {
+        "ratings_total": 3, 
+        "ratings_average": "4.33", 
+        "app_name": "", 
+        "package_name": "mycalculator", 
+        "histogram": "[0, 0, 0, 2, 1]"
+    }, 
+    {
+        "ratings_total": 1, 
+        "ratings_average": "4.00", 
+        "app_name": "", 
+        "package_name": "memory-owl-lite", 
+        "histogram": "[0, 0, 0, 1, 0]"
+    }, 
+    {
+        "ratings_total": 3, 
+        "ratings_average": "4.33", 
+        "app_name": "", 
+        "package_name": "spirits", 
+        "histogram": "[0, 0, 1, 0, 2]"
+    }
+]

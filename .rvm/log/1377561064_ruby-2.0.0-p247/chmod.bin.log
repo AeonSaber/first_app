@@ -1,0 +1,3 @@
+[2013-08-26 18:53:51] chmod
+current path: /home/student/.rvm/src/ruby-2.0.0-p247
+command(10): chmod +x /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/erb /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/gem /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/irb /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/rake /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/rdoc /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/ri /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/ruby /home/student/.rvm/rubies/ruby-2.0.0-p247/bin/testrb

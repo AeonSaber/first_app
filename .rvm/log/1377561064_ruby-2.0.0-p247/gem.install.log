@@ -1,0 +1,5 @@
+[2013-08-26 18:54:00] gem
+current path: /home/student/.rvm/src/ruby-2.0.0-p247
+command(7): env GEM_HOME=/home/student/.rvm/gems/ruby-2.0.0-p247@global GEM_PATH=/home/student/.rvm/gems/ruby-2.0.0-p247@global gem install --remote rvm
+Successfully installed rvm-1.11.3.8
+1 gem installed

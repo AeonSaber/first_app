@@ -1,0 +1,115 @@
+DEBUG: Indicator-Applet-Complete - Icons directory: /usr/share/libindicator/icons/
+DEBUG: Indicator-Applet-Complete - Looking at Module: libpower.so
+DEBUG: Indicator-Applet-Complete - Loading Module: libpower.so
+WARNING: libindicator - IndicatorObject class does not have an accessible description.
+DEBUG: Indicator-Applet-Complete - Looking at Module: libsession.so
+DEBUG: Indicator-Applet-Complete - Loading Module: libsession.so
+CRITICAL: GLib - g_error_free: assertion `error != NULL' failed
+DEBUG: Indicator-Session - get entries
+DEBUG: Indicator-Applet-Complete - Signal: Entry Added from libsession.so
+DEBUG: Indicator-Applet-Complete - Looking at Module: libsoundmenu.so
+DEBUG: Indicator-Applet-Complete - Loading Module: libsoundmenu.so
+WARNING: libindicator - IndicatorObject class does not have an accessible description.
+DEBUG: Indicator-Applet-Complete - Signal: Entry Added from libsoundmenu.so
+DEBUG: Indicator-Applet-Complete - Looking at Module: libdatetime.so
+DEBUG: Indicator-Applet-Complete - Loading Module: libdatetime.so
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Applet-Complete - Signal: Entry Added from libdatetime.so
+DEBUG: Indicator-Applet-Complete - Looking at Module: libapplication.so
+DEBUG: Indicator-Applet-Complete - Loading Module: libapplication.so
+DEBUG: Indicator-Applet-Complete - Looking at Module: libmessaging.so
+DEBUG: Indicator-Applet-Complete - Loading Module: libmessaging.so
+WARNING: libindicator - IndicatorObject class does not have an accessible description.
+DEBUG: Indicator-Applet-Complete - Signal: Entry Added from libmessaging.so
+DEBUG: Indicator-Applet-Complete - Looking at Module: libprintersmenu.so
+DEBUG: Indicator-Applet-Complete - Loading Module: libprintersmenu.so
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+CRITICAL: Gtk - gtk_distribute_natural_allocation: assertion `extra_space >= 0' failed
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Power - Num devices: '1'
+
+DEBUG: Indicator-Power - get_primary_device: got data from object /org/freedesktop/UPower/devices/line_power_ACAD
+MESSAGE: Indicator-Power - Couldn't find primary device
+DEBUG: Indicator-Power - Num devices: '1'
+
+DEBUG: Indicator-Power - menu_add_device: got data from object /org/freedesktop/UPower/devices/line_power_ACAD
+DEBUG: Indicator-Power - icon_policy is: 0 (present==0, charge==1, never==2)
+DEBUG: Indicator-Power - count_batteries found 0 batteries (0 are charging/discharging)
+DEBUG: Indicator-Power - should_be_visible: no
+DEBUG: Indicator-Applet-Complete - Signal: Entry Removed
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Applet-Complete - Signal: Entry Added from libprintersmenu.so
+DEBUG: Indicator-Applet-Complete - Signal: Entry Removed
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Sound - indicator-sound: new_volume_slider_widget
+DEBUG: Indicator-Sound - indicator-sound: new_voip_slider_widget
+DEBUG: Indicator-Sound - indicator-sound: new_metadata_widget
+DEBUG: Indicator-Sound - new_metadata_widget ("Rhythmbox")
+DEBUG: Indicator-Sound - indicator-sound: new_transport_bar() called 
+CRITICAL: Gtk - gtk_widget_realize: assertion `widget->priv->anchored || GTK_IS_INVISIBLE (widget)' failed
+DEBUG: Indicator-Application - Connected to Application Indicator Service.
+DEBUG: Indicator-Application - Request current apps
+DEBUG: Indicator-Application - Building new application entry: :1.32  with icon: nm-device-wired at position 0
+DEBUG: Indicator-Applet-Complete - Signal: Entry Added from libapplication.so
+DEBUG: Indicator-Application - Building new application entry: :1.58  with icon: dropboxstatus-logo at position 0
+DEBUG: Indicator-Application - 	Appending search path: /var/lib/dropbox/.dropbox-dist/icons
+DEBUG: Indicator-Applet-Complete - Signal: Entry Added from libapplication.so
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+CRITICAL: Gtk - gtk_distribute_natural_allocation: assertion `extra_space >= 0' failed
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Session - MATC Student USER HAS ACTIVE SESSIONS
+WARNING: Indicator-Session - Could not load the user image (/home/student/.face) for some reason
+DEBUG: Indicator-Session - new_user_item ("MATC Student")
+DEBUG: Indicator-Datetime - notify visible signal received
+CRITICAL: IDO - ido_calendar_menu_item_set_date: assertion `IDO_IS_CALENDAR_MENU_ITEM(menuitem)' failed
+DEBUG: Indicator-Datetime - New calendar item
+DEBUG: Indicator-Messages - new_application_item ("Chat")
+DEBUG: Indicator-Messages - new_application_item ("Set Up Broadcast Account...")
+DEBUG: Indicator-Messages - new_application_item ("Liferea")
+DEBUG: Indicator-Messages - new_application_item ("Set Up Mail...")
+DEBUG: Indicator-Messages - new_application_item ("Chat")
+DEBUG: Indicator-Applet-Complete - Signal: Entry Removed
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Datetime - New style for time label
+DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
+DEBUG: Indicator-Datetime - Checking against 2 possible times
+DEBUG: Indicator-Datetime - Guessing max time width: 62

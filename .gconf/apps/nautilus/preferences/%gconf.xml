@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="sidebar_width" mtime="1345659895" type="int" value="186"/>
+	<entry name="navigation_window_saved_geometry" mtime="1345658949" type="string">
+		<stringvalue>906x550+175+58</stringvalue>
+	</entry>
+	<entry name="default_folder_viewer" mtime="1345658915" type="string">
+		<stringvalue>list-view</stringvalue>
+	</entry>
+	<entry name="navigation_window_saved_maximized" mtime="1377565945" type="bool" value="true"/>
+	<entry name="start_with_sidebar" mtime="1377564062" type="bool" value="true"/>
+</gconf>

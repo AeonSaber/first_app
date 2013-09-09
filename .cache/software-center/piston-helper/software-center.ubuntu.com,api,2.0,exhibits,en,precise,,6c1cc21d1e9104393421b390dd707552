@@ -1,0 +1,122 @@
+status: 200
+content-length: 4131
+content-location: https://software-center.ubuntu.com/api/2.0/exhibits/en/precise/
+expires: Mon, 26 Aug 2013 23:16:58 GMT
+vary: Authorization
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Mon, 26 Aug 2013 23:06:58 GMT
+etag: "67a6e790f25ed3117a7c8dec4449d7b0"
+cache-control: max-age=600
+date: Mon, 26 Aug 2013 23:12:12 GMT
+content-type: application/json; charset=utf-8
+
+[
+    {
+        "package_names": "", 
+        "click_url": "http://goo.gl/Clbmt", 
+        "weight": 1, 
+        "banner_url": "http://software-center.ubuntu.com/site_media/exhibits/2013/06/kerbal2.png", 
+        "distroseries": [
+            {
+                "version": "12.04", 
+                "code_name": "precise"
+            }, 
+            {
+                "version": "12.10", 
+                "code_name": "quantal"
+            }, 
+            {
+                "version": "13.04", 
+                "code_name": "raring"
+            }
+        ], 
+        "html": "<div style=\"background-color: #0d274d; width:1680px; height:200px;\">\r\n <div style=\"background: url('/site_media/exhibits/2013/06/kerbal2.png') top left no-repeat; width:700px; height:200px;\"></div>\r\n</div>", 
+        "published": true, 
+        "date_created": "2013-05-24 19:27:13", 
+        "banner_urls": [
+            "http://software-center.ubuntu.com/site_media/exhibits/2013/06/kerbal2.png"
+        ], 
+        "id": 91
+    }, 
+    {
+        "package_names": "spindl", 
+        "click_url": "", 
+        "weight": 2, 
+        "banner_url": "http://software-center.ubuntu.com/site_media/exhibits/2013/06/spindlbanner.png", 
+        "distroseries": [
+            {
+                "version": "12.04", 
+                "code_name": "precise"
+            }, 
+            {
+                "version": "12.10", 
+                "code_name": "quantal"
+            }, 
+            {
+                "version": "13.04", 
+                "code_name": "raring"
+            }
+        ], 
+        "html": "<div style=\"background-color: #3d3c38; width:1680px; height:200px;\">\r\n <div style=\"background: url('/site_media/exhibits/2013/06/spindlbanner.png') top left no-repeat; width:700px; height:200px;\"></div>\r\n</div>", 
+        "published": true, 
+        "date_created": "2013-06-28 10:43:30", 
+        "banner_urls": [
+            "http://software-center.ubuntu.com/site_media/exhibits/2013/06/spindlbanner.png"
+        ], 
+        "id": 96
+    }, 
+    {
+        "package_names": "wakfu", 
+        "click_url": "", 
+        "weight": 3, 
+        "banner_url": "http://software-center.ubuntu.com/site_media/exhibits/2013/07/ban_linux_wakfu_700x200_1.png", 
+        "distroseries": [
+            {
+                "version": "12.04", 
+                "code_name": "precise"
+            }, 
+            {
+                "version": "12.10", 
+                "code_name": "quantal"
+            }, 
+            {
+                "version": "13.04", 
+                "code_name": "raring"
+            }
+        ], 
+        "html": "<div style=\"background-color: #007178; width:1680px; height:200px;\">\r\n<div style=\"background: url('/site_media/exhibits/2013/07/ban_linux_wakfu_700x200_1.png') top left no-repeat; width:700px; height:200px;\"></div>\r\n</div>", 
+        "published": true, 
+        "date_created": "2013-07-10 14:58:13", 
+        "banner_urls": [
+            "http://software-center.ubuntu.com/site_media/exhibits/2013/07/ban_linux_wakfu_700x200_1.png"
+        ], 
+        "id": 97
+    }, 
+    {
+        "package_names": "keepassx", 
+        "click_url": "", 
+        "weight": 4, 
+        "banner_url": "http://software-center.ubuntu.com/site_media/exhibits/2013/05/SC_banners_KeePassX.png", 
+        "distroseries": [
+            {
+                "version": "12.04", 
+                "code_name": "precise"
+            }, 
+            {
+                "version": "12.10", 
+                "code_name": "quantal"
+            }, 
+            {
+                "version": "13.04", 
+                "code_name": "raring"
+            }
+        ], 
+        "html": "<div style=\"background-color: #f7f7f6; width:1680px; height:200px;\">\r\n <div style=\"background: url('/site_media/exhibits/2013/05/SC_banners_KeePassX.png') top left no-repeat; width:700px; height:200px;\"></div>\r\n</div>", 
+        "published": true, 
+        "date_created": "2013-05-06 18:07:31", 
+        "banner_urls": [
+            "http://software-center.ubuntu.com/site_media/exhibits/2013/05/SC_banners_KeePassX.png"
+        ], 
+        "id": 88
+    }
+]

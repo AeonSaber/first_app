@@ -1,0 +1,32 @@
+[2013-08-26 18:58:10] __rvm_with
+__rvm_with () 
+{ 
+    ( __rvm_use "$1";
+    shift;
+    "$@" || return $? )
+}
+current path: /home/student
+command(4): __rvm_with ruby-2.0.0-p247 /home/student/.rvm/scripts/gemsets initial
+Importing initial gemsets for ruby-2.0.0-p247.
+paths: /home/student/.rvm/gemsets/ruby/2.0.0/p247 /home/student/.rvm/gemsets/ruby/2.0.0 /home/student/.rvm/gemsets/ruby /home/student/.rvm/gemsets
+
+Installing gems listed in /home/student/.rvm/gemsets/default.gems file...
+
+
+Processing of /home/student/.rvm/gemsets/default.gems is complete.
+
+
+Installing gems listed in /home/student/.rvm/gemsets/global.gems file...
+
+[32minstalling rubygems-bundler ...[0m..
+rubygems-bundler  installed.
+[32minstalling bundler ...[0m..
+bundler  installed.
+[32minstalling rake ...[0m..
+rake  installed.
+[32minstalling rvm ...[0m..
+rvm  installed.
+
+Processing of /home/student/.rvm/gemsets/global.gems is complete.
+
+Installation of gems for ruby-2.0.0-p247 is complete.

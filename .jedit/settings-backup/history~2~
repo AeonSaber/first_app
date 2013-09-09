@@ -1,0 +1,12 @@
+[vfs.browser.path]
+/home/student
+[vfs.browser.filter]
+*\[^~#\]
+[action]
+Interface/Increase_Font_Size
+global-options
+editor-scheme-selector
+schemeEditor-float
+plugin-options
+exit
+plugin-manager

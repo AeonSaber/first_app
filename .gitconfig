@@ -1,0 +1,7 @@
+[user]
+	name = Joseph Sutton
+	email = jpsutton@madisoncollege.edu
+[alias]
+	co = checkout
+[core]
+	editor = subl -w
