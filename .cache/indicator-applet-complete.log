@@ -113,3 +113,5 @@ DEBUG: Indicator-Datetime - New style for time label
 DEBUG: Indicator-Datetime - Evaluating bitmask for '%l:%M %p'
 DEBUG: Indicator-Datetime - Checking against 2 possible times
 DEBUG: Indicator-Datetime - Guessing max time width: 62
+DEBUG: Indicator-Sound - Just caught a style change event
+DEBUG: Indicator-Sound - Just caught a style change event

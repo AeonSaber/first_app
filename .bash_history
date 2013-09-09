@@ -300,3 +300,23 @@ ls app/controllers
 git status
 git remote add origins https://github.com/aeonsaber/first_app.git
 git push -u origin master
+sudo git push
+ls
+cd rails_projects
+ls
+cd first_app
+git remote add origin https://github.com/AeonSaber/first_app.git
+git push -u origin master
+git remote add origin https://github.com/AeonSaber/first_app.git
+git push -u origin master
+git checkout -b modify-README
+git branch
+git mv README.rdoc README.md
+git commit -a -m "Improve the README file"
+git checkout master
+git merge modify-README
+git push
+git checkout -f
+git status
+git remote remove origin https://github.com/AeonSaber/first_app.git
+git remote add origin https://github.com/AeonSaber/firstapp.git
