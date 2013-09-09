@@ -287,3 +287,16 @@ git commit -m "Initialize repository"
 git remote add origin https://github.com/AeonSaber/first_app.git
 git push -u origin master
 git add .
+git config --global user.name "Joseph Sutton"
+git config --global user.email jpsutton@madisoncollege.edu
+git config --global alias.co checkout
+git config --global core.editor "subl -w"
+git init
+git add .
+git commit -m "Initialize Repository"
+ls app/controllers/
+rm -rf app/controllers
+ls app/controllers
+git status
+git remote add origins https://github.com/aeonsaber/first_app.git
+git push -u origin master

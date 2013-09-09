@@ -9,9 +9,9 @@
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
                    sizemode="normal"
                    screenX="13"
-                   screenY="72"
                    width="857"
-                   height="943" />
+                   screenY="24"
+                   height="823" />
   <RDF:Description RDF:about="chrome://mozapps/content/downloads/downloads.xul">
     <NC:persist RDF:resource="chrome://mozapps/content/downloads/downloads.xul#downloadManager"/>
   </RDF:Description>
